@@ -1,0 +1,9 @@
+{
+	"name": "ADE-Data-Factory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c41f2d2-89b4-4f04-a21d-b8e9c87bb963",
+		"tenantId": "bb355f5f-79c4-4a60-af75-b30f2aea145a"
+	}
+}
